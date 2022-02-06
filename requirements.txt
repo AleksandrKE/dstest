@@ -1,0 +1,7 @@
+adtk==0.6.2
+dateutils==0.6.12
+jupyter==1.0.0
+matplotlib==3.5.1
+numpy==1.22.1
+pandas==1.4.0
+tensorflow==2.7.0
